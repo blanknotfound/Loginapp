@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402870932581",
+    "project_id": "sams-login-app",
+    "storage_bucket": "sams-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402870932581:android:25f38ecc559e22c3aae28c",
+        "android_client_info": {
+          "package_name": "com.example.myfirstandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBve1OGL-FWFQT-d6gAhD7mJsR-vsAroXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
